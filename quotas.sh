@@ -27,7 +27,7 @@ systemctl daemon-reload
 cd /home
 mount -o remount /
 cd
-cd data
+cd /data
 mount -o remount /
 cd
 
